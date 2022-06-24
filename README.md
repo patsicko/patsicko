@@ -2,7 +2,8 @@
 
 # I'm MANIBAHO Patrick from Rwanda, I am a Software Engineer!
 
-## After realising # THE POWER OF CHOICE AND CONSISTENCY,
+## After realising the power of choice and consistency, I resolutely decided to cling on Software Engineering.
+I am keenly interested in unraveling every single knot of it, intending to play a role in  revolutionizing this industry!
 
 ![photo2](https://user-images.githubusercontent.com/63926982/175697738-c94b195c-3fbb-42e4-9eca-d16187451e8f.jpg)
 
