@@ -8,7 +8,7 @@
 
 [LIVE DEMO](https://raw.githack.com/patsicko/portfolio/b0fbaa80b9b5236129bcd0e13087a38170a3a243/code.html) <https://raw.githack.com/patsicko/portfolio/b0fbaa80b9b5236129bcd0e13087a38170a3a243/code.html>
 
-![image](https://user-images.githubusercontent.com/63926982/175803838-3f96521d-6502-4261-b55a-72eee45a9acd.png)(https://www.linkedin.com/in/manibaho-patrick-a7851a124/)
+![image](https://user-images.githubusercontent.com/63926982/175803838-3f96521d-6502-4261-b55a-72eee45a9acd.png(https://www.linkedin.com/in/manibaho-patrick-a7851a124/))
 
 
 
