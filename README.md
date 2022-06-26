@@ -18,6 +18,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api username=patsicko&theme=radical)
 
+![https://camo.githubusercontent.com/eedc00fd1d16a81472e8b5ed9ed82b728bbd0e136aa183f7f4a44b7de8918346/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d64657363686f6c61722d63656f2673686f775f69636f6e733d74727565267468656d653d6461726b26686964655f7469746c653d74727565](https://github-readme-stats.vercel.app/api?username=descholar-ceo&amp;show_icons=true&amp;theme=dark&amp;hide_title=true" style="max-width: 100%)
+
 
 
 
