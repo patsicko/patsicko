@@ -18,6 +18,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=patsicko&amp;show_icons=true&amp;theme=dark&amp;hide_title=true" style="max-width: 100%;">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patsicko&amp;show_icons=true&amp;theme=dark&amp;layout=compact&amp;hide_title=true" style="max-width: 100%;">
+
 
 
 
