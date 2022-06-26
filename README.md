@@ -14,7 +14,7 @@
 ](https://www.linkedin.com/in/manibaho-patrick-a7851a124/)
 [![image](https://user-images.githubusercontent.com/63926982/175804358-c774a8eb-7741-4eb0-9b75-493740394774.png)](https://twitter.com/patsicko)
 [![image](https://user-images.githubusercontent.com/63926982/175804449-a1bfd26f-4322-433a-96c8-3517468c90e3.png)](mailto:patsicko@gmail.com)
-[![whatsapp](https://user-images.githubusercontent.com/63926982/175804636-aedd5ccb-fdc1-44e1-bd8e-8500001e89a3.png)](https://wa.me/+250784660905)
+[![wtp](https://user-images.githubusercontent.com/63926982/175804751-20fc0746-7c33-4173-9ba7-24edd5fb5b67.png)](https://wa.me/+250784660905)
 
 
 
