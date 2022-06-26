@@ -16,7 +16,7 @@
 [![image](https://user-images.githubusercontent.com/63926982/175804449-a1bfd26f-4322-433a-96c8-3517468c90e3.png)](mailto:patsicko@gmail.com)
 [![wtp](https://user-images.githubusercontent.com/63926982/175804751-20fc0746-7c33-4173-9ba7-24edd5fb5b67.png)](https://wa.me/+250784660905)
 
-|My Github Statistics| My Languages| My streaks|
+|My Github Statistics|My Languages|My streaks|
 
 |:-------------------|:-------------|:---------|
 
