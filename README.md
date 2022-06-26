@@ -16,9 +16,9 @@
 [![image](https://user-images.githubusercontent.com/63926982/175804449-a1bfd26f-4322-433a-96c8-3517468c90e3.png)](mailto:patsicko@gmail.com)
 [![wtp](https://user-images.githubusercontent.com/63926982/175804751-20fc0746-7c33-4173-9ba7-24edd5fb5b67.png)](https://wa.me/+250784660905)
 
-|My Github Statistics | My Languages | My streaks|
+|My Github Statistics              |           My Languages           |          My streaks|
 
-|-------------------|-------------|---------|
+|----------------------------------|-----------------------------|-----------------------------|
 
 |<img src="https://github-readme-stats.vercel.app/api?username=patsicko&amp;show_icons=true&amp;theme=dark&amp;hide_title=true" style="max-width: 100%;"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patsicko&amp;show_icons=true&amp;theme=dark&amp;layout=compact&amp;hide_title=true" style="max-width: 100%;"> |
 
