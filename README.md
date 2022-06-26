@@ -16,10 +16,7 @@
 [![image](https://user-images.githubusercontent.com/63926982/175804449-a1bfd26f-4322-433a-96c8-3517468c90e3.png)](mailto:patsicko@gmail.com)
 [![wtp](https://user-images.githubusercontent.com/63926982/175804751-20fc0746-7c33-4173-9ba7-24edd5fb5b67.png)](https://wa.me/+250784660905)
 
-![image](https://user-images.githubusercontent.com/63926982/175805710-abbc39ba-b058-4d91-bedb-21bb16eb6495.png)
-(https://github-readme-stats.vercel.app/api username=patsicko&theme=radical)
-
-![https://camo.githubusercontent.com/eedc00fd1d16a81472e8b5ed9ed82b728bbd0e136aa183f7f4a44b7de8918346/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d64657363686f6c61722d63656f2673686f775f69636f6e733d74727565267468656d653d6461726b26686964655f7469746c653d74727565](https://github-readme-stats.vercel.app/api?username=descholar-ceo&amp;show_icons=true&amp;theme=dark&amp;hide_title=true" style="max-width: 100%)
+<img src="https://camo.githubusercontent.com/eedc00fd1d16a81472e8b5ed9ed82b728bbd0e136aa183f7f4a44b7de8918346/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d64657363686f6c61722d63656f2673686f775f69636f6e733d74727565267468656d653d6461726b26686964655f7469746c653d74727565" alt="descholar's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=patsicko&amp;show_icons=true&amp;theme=dark&amp;hide_title=true" style="max-width: 100%;">
 
 
 
