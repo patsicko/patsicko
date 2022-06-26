@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/63926982/175803209-60f3e13a-de95-42b4-aee9-8191df9223ca.png)
+
 # I'm MANIBAHO Patrick from Rwanda, I am a Software Engineer!
 
 ## After realising the power of choice and consistency, I resolutely decided to cling on Software Engineering. I am keenly interested in unraveling every single knot of it, intending to play a role in  revolutionizing this industry!
