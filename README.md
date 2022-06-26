@@ -8,8 +8,7 @@
 
 [LIVE DEMO](https://raw.githack.com/patsicko/portfolio/b0fbaa80b9b5236129bcd0e13087a38170a3a243/code.html) <https://raw.githack.com/patsicko/portfolio/b0fbaa80b9b5236129bcd0e13087a38170a3a243/code.html>
 
-[<![gmail_icon](https://user-images.githubusercontent.com/63926982/175804141-e765041c-477a-4e02-946f-ea428e7117c5.png)
->](patsicko@gmail.com)
+[<https://user-images.githubusercontent.com/63926982/175804141-e765041c-477a-4e02-946f-ea428e7117c5.png>](patsicko@gmail.com)
 
 
 
