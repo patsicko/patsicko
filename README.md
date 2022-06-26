@@ -8,8 +8,15 @@
 
 [LIVE DEMO](https://raw.githack.com/patsicko/portfolio/b0fbaa80b9b5236129bcd0e13087a38170a3a243/code.html) <https://raw.githack.com/patsicko/portfolio/b0fbaa80b9b5236129bcd0e13087a38170a3a243/code.html>
 
+## Connect with me
+
 [![image](https://user-images.githubusercontent.com/63926982/175804313-8a956073-7897-446c-ae9d-f344ebf68e34.png)
 ](https://www.linkedin.com/in/manibaho-patrick-a7851a124/)
+[![image](https://user-images.githubusercontent.com/63926982/175804358-c774a8eb-7741-4eb0-9b75-493740394774.png)](https://twitter.com/patsicko)
+[![image](https://user-images.githubusercontent.com/63926982/175804449-a1bfd26f-4322-433a-96c8-3517468c90e3.png)](mailto:patsicko@gmail.com)
+
+
+
 
 
 
