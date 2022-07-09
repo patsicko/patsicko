@@ -7,9 +7,6 @@
 ![apply](https://user-images.githubusercontent.com/63926982/178096601-1fbc8b8e-d0e1-47fa-aea5-94028fbfdb4b.png)
 
 
-![portfoliojs](https://user-images.githubusercontent.com/63926982/178096361-e6ae93a1-42bd-4436-a0aa-cce6a61dd3ac.png)
-
-
 [LIVE DEMO](https://raw.githack.com/patsicko/portfolio/57269a5cc4842db61d07015a6759e2d56978f594/code.html) <https://raw.githack.com/patsicko/portfolio/57269a5cc4842db61d07015a6759e2d56978f594/code.html>
 
 ## Connect with me
