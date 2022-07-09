@@ -4,6 +4,7 @@
 
 ## After realising the power of choice and consistency, I resolutely decided to cling on Software Engineering. I am keenly interested in unraveling every single knot of it, intending to play a role in  revolutionizing this industry!
 
+
 ![ME](https://user-images.githubusercontent.com/63926982/175802332-6327cae8-90f9-4a17-bd1f-89b8fa847a3d.png)
 
 [LIVE DEMO](https://raw.githack.com/patsicko/portfolio/57269a5cc4842db61d07015a6759e2d56978f594/code.html) <https://raw.githack.com/patsicko/portfolio/57269a5cc4842db61d07015a6759e2d56978f594/code.html>
