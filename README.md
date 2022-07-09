@@ -6,7 +6,6 @@
 
 ![portfoliojs](https://user-images.githubusercontent.com/63926982/178096361-e6ae93a1-42bd-4436-a0aa-cce6a61dd3ac.png)
 
-![ME](https://user-images.githubusercontent.com/63926982/175802332-6327cae8-90f9-4a17-bd1f-89b8fa847a3d.png)
 
 [LIVE DEMO](https://raw.githack.com/patsicko/portfolio/57269a5cc4842db61d07015a6759e2d56978f594/code.html) <https://raw.githack.com/patsicko/portfolio/57269a5cc4842db61d07015a6759e2d56978f594/code.html>
 
