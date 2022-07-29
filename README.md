@@ -36,7 +36,9 @@ style="max-width: 100%;"> |<img src="https://github-readme-streak-stats.herokuap
      <a href="https://postman.com" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
    <a href="https://www.docker.com/" ><img src="https://user-images.githubusercontent.com/63926982/181821203-a4791374-33ea-42f8-b088-adfd43eb3ed7.png"width="40" height="40"></a>
 <a href="https://github.com/patsicko"> <img src="https://user-images.githubusercontent.com/63926982/181821832-bd55ac25-ae79-480d-8e9c-3a3858d1c66f.png" width="80" height="80"></a>
-  </p>
+      <a href="https://git-scm.com/"> <img src="https://user-images.githubusercontent.com/63926982/181822687-01e80843-2348-49af-8d37-b0c42c0b4ac0.png"width="40" height="40"> </a> 
+      <a href=""> <img src="https://user-images.githubusercontent.com/63926982/181823419-5bc1594b-5300-4038-8d0b-959ce3d297b9.png"width="40" height="40"></a>   
+      </p>
 </table>
    
 
