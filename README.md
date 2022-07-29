@@ -38,7 +38,6 @@ style="max-width: 100%;"> |<img src="https://github-readme-streak-stats.herokuap
 <a href="https://github.com/patsicko"> <img src="https://user-images.githubusercontent.com/63926982/181821832-bd55ac25-ae79-480d-8e9c-3a3858d1c66f.png" width="80" height="80"></a>
       <a href="https://git-scm.com/"> <img src="https://user-images.githubusercontent.com/63926982/181822687-01e80843-2348-49af-8d37-b0c42c0b4ac0.png"width="60" height="60"> </a> 
       <a href="https://www.mysql.com/"> <img src="https://user-images.githubusercontent.com/63926982/181823419-5bc1594b-5300-4038-8d0b-959ce3d297b9.png"width="60" height="60"></a> 
-      
       <a href="https://www.figma.com/"> <img src="https://user-images.githubusercontent.com/63926982/181823864-77cec17c-e09a-4da6-9c3d-1857ab7f9e28.png"width="60" height="60"></a>
       <a href="https://www.adobe.com/"> <img src="https://user-images.githubusercontent.com/63926982/181824403-0deb532e-8707-4938-be46-8756a2fdcb89.png"width="60" height="60"></a>
       <a href="https://www.adobe.com"> <img src="https://user-images.githubusercontent.com/63926982/181825255-45fd62e0-5afc-4f99-82f9-2bbd77dcca68.png "width="60" height="60"></a>
