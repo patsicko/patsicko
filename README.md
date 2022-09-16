@@ -42,6 +42,11 @@ style="max-width: 100%;"> |<img src="https://github-readme-streak-stats.herokuap
       <a href="https://www.adobe.com/"> <img src="https://user-images.githubusercontent.com/63926982/181824403-0deb532e-8707-4938-be46-8756a2fdcb89.png"width="60" height="60"></a>
       <a href="https://www.adobe.com"> <img src="https://user-images.githubusercontent.com/63926982/181825255-45fd62e0-5afc-4f99-82f9-2bbd77dcca68.png "width="60" height="60"></a>
       <a href="https://www.linux.com/"> <img src="https://user-images.githubusercontent.com/63926982/181825721-db6aaa76-b55a-4613-acdc-6466ff6275a0.png"width="60" height="60"></a>
+      
+    <a href="https://www.php.net/">  <img src="https://user-images.githubusercontent.com/63926982/190551663-6411c6b7-2b39-494d-9468-c68b443d64e9.png" width="60" height="60"></a>
+  
+      
+      
       </p>
 </table>
 
