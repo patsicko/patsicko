@@ -9,8 +9,6 @@
 <img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
-# I'm MANIBAHO Patrick from Rwanda, I am a Software Engineer!
-
 ## After realizing the power of choice and consistency, I resolutely decided to cling on Software Engineering. I am keenly interested in unraveling every single knot of it, intending to play a role in  revolutionizing this industry!
 
 ![git](https://user-images.githubusercontent.com/63926982/178104092-8701cd12-106f-4bfb-8950-dbc46369cae8.png)
