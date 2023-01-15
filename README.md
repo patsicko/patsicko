@@ -42,7 +42,6 @@ style="max-width: 100%;"> |<img src="https://github-readme-streak-stats.herokuap
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- 
      <a href="https://jquery.com/" > <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="40" height="40"/> </a> 
       <a href="https://getbootstrap.com" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
      <a href="https://sass-lang.com" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
