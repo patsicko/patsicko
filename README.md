@@ -10,8 +10,7 @@
 
 
 ## After realizing the power of choice and consistency, I resolutely decided to cling on Software Engineering. I am keenly interested in unraveling every single knot of it, intending to play a role in  revolutionizing this industry!
-
-![git](https://user-images.githubusercontent.com/63926982/178104092-8701cd12-106f-4bfb-8950-dbc46369cae8.png)
+![brand](https://user-images.githubusercontent.com/63926982/212531896-22cb59ea-4462-4b34-9d21-affd11cc8ba2.png)
 ![68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966](https://user-images.githubusercontent.com/63926982/197335662-7a66cf3f-a1bc-4ca6-a850-72a8fe97d797.gif)
 
 
