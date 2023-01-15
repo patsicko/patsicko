@@ -1,5 +1,13 @@
 ![image](https://user-images.githubusercontent.com/63926982/175803209-60f3e13a-de95-42b4-aee9-8191df9223ca.png)
 
+# Hello,
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=4500&color=975BF7&center=true&vCenter=true&width=1000&lines=Welcome!%F0%9F%A4%97;I'm+ZPatrick+MANIBAHO+%F0%9F%91%8B;Nice+to+meet+you!%F0%9F%98%84)](https://git.io/typing-svg)
+
+<h3 align="center"> I'm a Full stack software Engineer!</h3>
+<img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+
 # I'm MANIBAHO Patrick from Rwanda, I am a Software Engineer!
 
 ## After realizing the power of choice and consistency, I resolutely decided to cling on Software Engineering. I am keenly interested in unraveling every single knot of it, intending to play a role in  revolutionizing this industry!
