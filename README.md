@@ -1,6 +1,7 @@
 ![image](https://user-images.githubusercontent.com/63926982/175803209-60f3e13a-de95-42b4-aee9-8191df9223ca.png)
 
 # Hello,
+# Hello,
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=4500&color=975BF7&center=true&vCenter=true&width=1000&lines=Welcome there!%F0%9F%A4%97;I'm+Patrick+MANIBAHO+%F0%9F%91%8B;Nice+to+meet+you!%F0%9F%98%84)](https://git.io/typing-svg)
 
