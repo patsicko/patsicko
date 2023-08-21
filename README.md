@@ -28,15 +28,20 @@
 [![wtp](https://user-images.githubusercontent.com/63926982/175804751-20fc0746-7c33-4173-9ba7-24edd5fb5b67.png)](https://wa.me/+250784660905)
 
 
-|<img src="https://github-readme-stats.vercel.app/api?username=patsicko&amp;theme=dark">| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patsicko&amp;show_icons=true&amp;theme=dark&amp;layout=compact&amp;" 
-style="max-width: 100%;"> |<img src="https://github-readme-streak-stats.herokuapp.com/?user=patsicko&amp;theme=dark" style="max-width: 100%;">|
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patsicko&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patsicko&layout=compact)
 
 ### GitHub Contribution Streak
 ![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=patsicko&theme=dark)
+
+### Weekly Coding Activity
+
+- Last Week's Working Hours: ![Your WakaTime Weekly Hours](https://github-readme-stats.vercel.app/api/wakatime?username=patsicko)
+- Languages Used in Recent Commits:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patsicko&layout=compact)
+
 
 
 
