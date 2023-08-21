@@ -15,6 +15,13 @@
 
 
 
+### Weekly Coding Activity
+
+- Last Week's Working Hours: ![Your WakaTime Weekly Hours](https://github-readme-stats.vercel.app/api/wakatime?username=patsicko)
+- Languages Used in Recent Commits:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patsicko&layout=compact)
+
 
 
 
@@ -34,13 +41,6 @@
 
 ### GitHub Contribution Streak
 ![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=patsicko&theme=dark)
-
-### Weekly Coding Activity
-
-- Last Week's Working Hours: ![Your WakaTime Weekly Hours](https://github-readme-stats.vercel.app/api/wakatime?username=patsicko)
-- Languages Used in Recent Commits:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patsicko&layout=compact)
 
 
 
