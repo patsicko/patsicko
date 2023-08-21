@@ -35,8 +35,6 @@ style="max-width: 100%;"> |<img src="https://github-readme-streak-stats.herokuap
 
 <table><tr><td valign="top" width="33%">
 <h3 align="center">Programming Languages, Frameworks and tools</h3>
-   
-   
    ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
