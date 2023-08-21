@@ -35,6 +35,10 @@ style="max-width: 100%;"> |<img src="https://github-readme-streak-stats.herokuap
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patsicko&layout=compact)
 
+### GitHub Contribution Streak
+![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=patsicko&theme=dark)
+
+
 
 <table><tr><td valign="top" width="33%">
 <h3 align="center">Programming Languages, Frameworks and tools</h3>
