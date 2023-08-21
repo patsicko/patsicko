@@ -31,6 +31,7 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=patsicko&amp;theme=dark">| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patsicko&amp;show_icons=true&amp;theme=dark&amp;layout=compact&amp;" 
 style="max-width: 100%;"> |<img src="https://github-readme-streak-stats.herokuapp.com/?user=patsicko&amp;theme=dark" style="max-width: 100%;">|
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patsicko&show_icons=true&theme=transparent)
 
 
 <table><tr><td valign="top" width="33%">
